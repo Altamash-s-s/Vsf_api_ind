@@ -288,10 +288,10 @@
     "assetPath": "/../var/magento2-sample-data/pub/media",
     "api": {
       "url": "http://demo-magento2.vuestorefront.io/rest",
-      "consumerKey": "xrie2w7v1mjmog1yqlhotbjygal8ri8t",
-      "consumerSecret": "nuyxbo5n5y0gt5afre423i31lzpor35v",
-      "accessToken": "n67lgrzh0u7l0utjon53buq83km4s79r",
-      "accessTokenSecret": "hzdj8fjw8nqynoq3omfxyvxu9bfd0h8r"
+      "consumerKey": "kraazxs0p9t0h7wtf8y5drjym1axd3nw",
+      "consumerSecret": "9evn06mx0tkpl208w2bu143yeiv4funw",
+      "accessToken": "3ecq5c84l37qr0yzzroc1fn9rcf7euhn",
+      "accessTokenSecret": "rogvpjs8ly1jswu974417hp344wbcc4r"
     }
   },
   "magento1": {
